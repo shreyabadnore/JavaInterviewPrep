@@ -1,0 +1,47 @@
+# Compiled Java files
+*.class
+
+# Maven build directory
+target/
+
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Log files
+*.log
+logs/
+
+# Test execution reports
+test-output/
+reports/
+
+# Allure reports and results
+allure-results/
+allure-report/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Local environment and configuration secrets
+.env
+.env.*
+!.env.example
+
+# Local-only configuration files
+config-local.properties
